@@ -49,13 +49,13 @@ between -25 and -1 | beacon to the left
 
 value | state
 ---|---
-0 - 100 | beacon distance
+between 0 and 100 | beacon distance
 -128 | beacon not found
 
 ### .remote(channel)
 get the current state of the IR remote on the specified channel
 
-**Returns:** number between 1 and 11
+**Returns:** number between 0 and 11
 
 value | state
 ---|---
