@@ -37,15 +37,15 @@ get the heading and distance to the beacon on the specified channel
 
 **Returns:** object with heading and distance.
 
-#####heading
+##### heading
 
 value | state
 ---|---
-1 - 25 | beacon to the right
+between 1 and 25 | beacon to the right
 0 | beacon straight ahead (or no beacon)
--25 - -1 | beacon to the left
+between -25 and -1 | beacon to the left
 
-#####distance
+##### distance
 
 value | state
 ---|---
