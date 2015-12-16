@@ -2,7 +2,7 @@
   "name": "ir-sensor",
   "description": "get values from ev3 ir-sensor",
   "repository": "git://github.com/ev3-js/ir-sensor.git",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
