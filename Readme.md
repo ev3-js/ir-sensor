@@ -8,7 +8,7 @@ get values from ev3 ir-sensor
 
 ## Installation
 
-    $ npm install ev3-js-ir-sensor
+    $ npm install ir-sensor
 
 ## Usage
 
